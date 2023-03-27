@@ -1,0 +1,133 @@
+concept_id,concept_name,domain_id,concept_class_id,standard_concept,concept_code,valid_start_date,valid_end_date,invalid_reason,vocabulary_id
+0,No matching concept,Metadata,Undefined,null,No matching concept,19700101,20991231,null,None
+8507,MALE,Gender,Gender,S,M,19700101,20991231,null,Gender
+8515,Asian,Race,Race,S,2,19700101,20991231,null,Race
+8527,White,Race,Race,S,5,19700101,20991231,null,Race
+8532,FEMALE,Gender,Gender,S,F,19700101,20991231,null,Gender
+8657,American Indian or Alaska Native,Race,Race,S,1,19700101,20991231,null,Race
+9201,Inpatient Visit,Visit,Visit,S,IP,19700101,20991231,null,Visit
+9202,Outpatient Visit,Visit,Visit,S,OP,19700101,20991231,null,Visit
+9203,Emergency Room Visit,Visit,Visit,S,ER,19700101,20991231,null,Visit
+28060,Streptococcal sore throat,Condition,Clinical Finding,S,43878008,20020131,20991231,null,SNOMED
+75036,"Localized, primary osteoarthritis of the hand",Condition,Clinical Finding,S,201834006,20020131,20991231,null,SNOMED
+78272,Sprain of wrist,Condition,Clinical Finding,S,70704007,20020131,20991231,null,SNOMED
+79740,Overlapping malignant neoplasm of colon,Condition,Clinical Finding,S,109838007,20020131,20991231,null,SNOMED
+80502,Osteoporosis,Condition,Clinical Finding,S,64859006,20020131,20991231,null,SNOMED
+80809,Rheumatoid arthritis,Condition,Clinical Finding,S,69896004,20020131,20991231,null,SNOMED
+81151,Sprain of ankle,Condition,Clinical Finding,S,44465007,20020131,20991231,null,SNOMED
+133834,Atopic dermatitis,Condition,Clinical Finding,S,24079001,20020131,20991231,null,SNOMED
+134438,Contact dermatitis,Condition,Clinical Finding,S,40275004,20020131,20991231,null,SNOMED
+137613,Eclampsia in pregnancy,Condition,Clinical Finding,S,198992004,20020131,20991231,null,SNOMED
+192279,Disorder of kidney due to diabetes mellitus,Condition,Clinical Finding,S,127013003,20020131,20991231,null,SNOMED
+195588,Cystitis,Condition,Clinical Finding,S,38822007,20020131,20991231,null,SNOMED
+197500,Primary malignant neoplasm of colon,Condition,Clinical Finding,S,93761005,20020131,20991231,null,SNOMED
+198199,Pyelonephritis,Condition,Clinical Finding,S,45816000,20020131,20991231,null,SNOMED
+199076,Tubal pregnancy,Condition,Clinical Finding,S,79586000,20020131,20991231,null,SNOMED
+200970,Carcinoma in situ of prostate,Condition,Clinical Finding,S,92691004,20020131,20991231,null,SNOMED
+201826,Type 2 diabetes mellitus,Condition,Clinical Finding,S,44054006,20020131,20991231,null,SNOMED
+255848,Pneumonia,Condition,Clinical Finding,S,233604007,20020131,20991231,null,SNOMED
+257012,Chronic sinusitis,Condition,Clinical Finding,S,40055000,20020131,20991231,null,SNOMED
+258780,Emphysematous bronchitis,Condition,Clinical Finding,S,185086009,20020131,20991231,null,SNOMED
+260139,Acute bronchitis,Condition,Clinical Finding,S,10509002,20020131,20991231,null,SNOMED
+261325,Pulmonary emphysema,Condition,Clinical Finding,S,87433001,20020131,20991231,null,SNOMED
+313217,Atrial fibrillation,Condition,Clinical Finding,S,49436004,20020131,20991231,null,SNOMED
+317576,Coronary arteriosclerosis,Condition,Clinical Finding,S,53741008,20020131,20991231,null,SNOMED
+320128,Essential hypertension,Condition,Clinical Finding,S,59621000,20020131,20991231,null,SNOMED
+321042,Cardiac arrest,Condition,Clinical Finding,S,410429000,20040731,20991231,null,SNOMED
+372328,Otitis media,Condition,Clinical Finding,S,65363002,20020131,20991231,null,SNOMED
+375671,Concussion with loss of consciousness,Condition,Clinical Finding,S,62564004,20020131,20991231,null,SNOMED
+378001,Concussion with no loss of consciousness,Condition,Clinical Finding,S,62106007,20020131,20991231,null,SNOMED
+378419,Alzheimer's disease,Condition,Clinical Finding,S,26929004,20020131,20991231,null,SNOMED
+380378,Epilepsy,Condition,Clinical Finding,S,84757009,20020131,20991231,null,SNOMED
+381316,Cerebrovascular accident,Condition,Clinical Finding,S,230690007,20020131,20991231,null,SNOMED
+432867,Hyperlipidemia,Condition,Clinical Finding,S,55822004,20020131,20991231,null,SNOMED
+436096,Chronic pain,Condition,Clinical Finding,S,82423001,20020131,20991231,null,SNOMED
+436940,Metabolic syndrome X,Condition,Clinical Finding,S,237602007,20020131,20991231,null,SNOMED
+438130,Opioid abuse,Condition,Clinical Finding,S,5602001,20020131,20991231,null,SNOMED
+439393,Pre-eclampsia,Condition,Clinical Finding,S,398254007,20030731,20991231,null,SNOMED
+439777,Anemia,Condition,Clinical Finding,S,271737000,20020131,20991231,null,SNOMED
+440086,Child attention deficit disorder,Condition,Clinical Finding,S,192127007,20020131,20991231,null,SNOMED
+440448,Appendicitis,Condition,Clinical Finding,S,74400008,20020131,20991231,null,SNOMED
+440674,Gout,Condition,Clinical Finding,S,90560007,20020131,20991231,null,SNOMED
+443601,Chronic kidney disease stage 2,Condition,Clinical Finding,S,431856006,20080731,20991231,null,SNOMED
+443614,Chronic kidney disease stage 1,Condition,Clinical Finding,S,431855005,20080731,20991231,null,SNOMED
+4001336,Concussion injury of brain,Condition,Clinical Finding,S,110030002,20020131,20991231,null,SNOMED
+4029498,Seizure disorder,Condition,Clinical Finding,S,128613002,20020131,20991231,null,SNOMED
+4035415,Tear of meniscus of knee,Condition,Clinical Finding,S,239720000,20020131,20991231,null,SNOMED
+4043241,Familial Alzheimer's disease of early onset,Condition,Clinical Finding,S,230265002,20020131,20991231,null,SNOMED
+4048171,Perennial allergic rhinitis with seasonal variation,Condition,Clinical Finding,S,232353008,20020131,20991231,null,SNOMED
+4048695,Fracture of vertebral column without spinal cord injury,Condition,Clinical Finding,S,15724005,20020131,20991231,null,SNOMED
+4051466,Childhood asthma,Condition,Clinical Finding,S,233678006,20020131,20991231,null,SNOMED
+4055754,Impacted molars,Condition,Clinical Finding,S,196416002,20020131,20991231,null,SNOMED
+4056621,Recurrent urinary tract infection,Condition,Clinical Finding,S,197927001,20020131,20991231,null,SNOMED
+4059173,Fracture of ankle,Condition,Clinical Finding,S,16114001,20020131,20991231,null,SNOMED
+4066995,Fracture of vertebral column with spinal cord injury,Condition,Clinical Finding,S,1734006,20020131,20991231,null,SNOMED
+4078393,Miscarriage in first trimester,Condition,Clinical Finding,S,19169002,20020131,20991231,null,SNOMED
+4079749,Osteoarthritis of hip,Condition,Clinical Finding,S,239872002,20020131,20991231,null,SNOMED
+4079750,Osteoarthritis of knee,Condition,Clinical Finding,S,239873007,20020131,20991231,null,SNOMED
+4084167,Acute allergic reaction,Condition,Clinical Finding,S,241929008,20020131,20991231,null,SNOMED
+4094814,Bullet wound,Condition,Clinical Finding,S,262574004,20020131,20991231,null,SNOMED
+4109685,Laceration of foot,Condition,Clinical Finding,S,284551006,20020131,20991231,null,SNOMED
+4110591,Small cell carcinoma of lung,Condition,Clinical Finding,S,254632001,20020131,20991231,null,SNOMED
+4112343,Acute viral pharyngitis,Condition,Clinical Finding,S,195662009,20020131,20991231,null,SNOMED
+4112853,Malignant tumor of breast,Condition,Clinical Finding,S,254837009,20020131,20991231,null,SNOMED
+4113008,Laceration of hand,Condition,Clinical Finding,S,284549007,20020131,20991231,null,SNOMED
+4115276,Non-small cell lung cancer,Condition,Clinical Finding,S,254637007,20020131,20991231,null,SNOMED
+4116491,Urinary tract infection caused by Escherichia coli,Condition,Clinical Finding,S,301011002,20020131,20991231,null,SNOMED
+4120314,Hypertriglyceridemia,Condition,Clinical Finding,S,302870006,20020131,20991231,null,SNOMED
+4129902,Neoplasm of prostate,Condition,Clinical Finding,S,126906006,20020131,20991231,null,SNOMED
+4132546,Traumatic brain injury,Condition,Clinical Finding,S,127295002,20020131,20991231,null,SNOMED
+4134304,Fracture subluxation of wrist,Condition,Clinical Finding,S,263102004,20020131,20991231,null,SNOMED
+4142905,Fracture of rib,Condition,Clinical Finding,S,33737001,20020131,20991231,null,SNOMED
+4146173,Injury of tendon of the rotator cuff of shoulder,Condition,Clinical Finding,S,307731004,20020131,20991231,null,SNOMED
+4149245,Rupture of patellar tendon,Condition,Clinical Finding,S,30832001,20020131,20991231,null,SNOMED
+4152280,Major depressive disorder,Condition,Clinical Finding,S,370143000,20020731,20991231,null,SNOMED
+4152936,Laceration of thigh,Condition,Clinical Finding,S,283385000,20020131,20991231,null,SNOMED
+4155034,Laceration of forearm,Condition,Clinical Finding,S,283371005,20020131,20991231,null,SNOMED
+4156265,Facial laceration,Condition,Clinical Finding,S,370247008,20020731,20991231,null,SNOMED
+4166224,Rupture of appendix,Condition,Clinical Finding,S,47693006,20020131,20991231,null,SNOMED
+4180790,Malignant tumor of colon,Condition,Clinical Finding,S,363406005,20020131,20991231,null,SNOMED
+4196262,Metastasis from malignant tumor of prostate,Condition,Clinical Finding,S,314994000,20020131,20991231,null,SNOMED
+4214376,Hyperglycemia,Condition,Clinical Finding,S,80394007,20020131,20991231,null,SNOMED
+4217975,Normal pregnancy,Condition,Clinical Finding,S,72892002,20020131,20991231,null,SNOMED
+4218106,Alcoholism,Condition,Clinical Finding,S,7200002,20020131,20991231,null,SNOMED
+4218389,Whiplash injury to neck,Condition,Clinical Finding,S,39848009,20020131,20991231,null,SNOMED
+4226121,Retinopathy due to type 2 diabetes mellitus,Condition,Clinical Finding,S,422034002,20060731,20991231,null,SNOMED
+4229440,Chronic congestive heart failure,Condition,Clinical Finding,S,88805009,20020131,20991231,null,SNOMED
+4230399,Closed fracture of hip,Condition,Clinical Finding,S,359817006,20020131,20991231,null,SNOMED
+4237458,Fracture of clavicle,Condition,Clinical Finding,S,58150001,20020131,20991231,null,SNOMED
+4245614,Bleeding from anus,Condition,Clinical Finding,S,6072007,20020131,20991231,null,SNOMED
+4262136,Blighted ovum,Condition,Clinical Finding,S,35999006,20020131,20991231,null,SNOMED
+4278672,Fracture of forearm,Condition,Clinical Finding,S,65966004,20020131,20991231,null,SNOMED
+4280726,Seasonal allergic rhinitis,Condition,Clinical Finding,S,367498001,20020131,20991231,null,SNOMED
+4282096,"Major depression, single episode",Condition,Clinical Finding,S,36923009,20020131,20991231,null,SNOMED
+4283893,Sinusitis,Condition,Clinical Finding,S,36971009,20020131,20991231,null,SNOMED
+4285898,Polyp of colon,Condition,Clinical Finding,S,68496003,20020131,20991231,null,SNOMED
+4294548,Acute bacterial sinusitis,Condition,Clinical Finding,S,75498004,20020131,20991231,null,SNOMED
+4296204,Epidermal burn of skin,Condition,Clinical Finding,S,403190006,20030731,20991231,null,SNOMED
+4296205,Partial thickness burn,Condition,Clinical Finding,S,403191005,20030731,20991231,null,SNOMED
+4309027,Idiopathic atrophic hypothyroidism,Condition,Clinical Finding,S,83664006,20020131,20991231,null,SNOMED
+4310703,"Non-small cell carcinoma of lung, TNM stage 1",Condition,Clinical Finding,S,424132000,20070131,20991231,null,SNOMED
+4311629,Impaired glucose tolerance,Condition,Clinical Finding,S,9414007,20020131,20991231,null,SNOMED
+4311765,Secondary malignant neoplasm of colon,Condition,Clinical Finding,S,94260004,20020131,20991231,null,SNOMED
+4316217,Primary fibromyalgia syndrome,Condition,Clinical Finding,S,95417003,20020131,20991231,null,SNOMED
+4329847,Myocardial infarction,Condition,Clinical Finding,S,22298006,20020131,20991231,null,SNOMED
+4341247,Protracted diarrhea,Condition,Clinical Finding,S,236077008,20020131,20991231,null,SNOMED
+37016354,Neuropathy due to type 2 diabetes mellitus,Condition,Clinical Finding,S,368581000119106,20160131,20991231,null,SNOMED
+37017023,Recurrent rectal polyp,Condition,Clinical Finding,S,713197008,20160131,20991231,null,SNOMED
+37395648,"Primary small cell malignant neoplasm of lung, TNM stage 1",Condition,Clinical Finding,S,67811000119102,20160731,20991231,null,SNOMED
+38003563,Hispanic or Latino,Ethnicity,Ethnicity,S,Hispanic,19700101,20991231,null,Ethnicity
+38003564,Not Hispanic or Latino,Ethnicity,Ethnicity,S,Not Hispanic,19700101,20991231,null,Ethnicity
+38003598,Black,Race,Race,S,3.01,19700101,20991231,null,Race
+40318618,Complete miscarriage,Condition,Clinical Finding,S,156073000,20130731,20991231,null,SNOMED
+40479422,Injury of medial collateral ligament of knee,Condition,Clinical Finding,S,444448004,20100131,20991231,null,SNOMED
+40479768,Injury of anterior cruciate ligament,Condition,Clinical Finding,S,444470001,20100131,20991231,null,SNOMED
+40480160,Osteoporotic fracture,Condition,Clinical Finding,S,443165006,20100131,20991231,null,SNOMED
+40481087,Viral sinusitis,Condition,Clinical Finding,S,444814009,20100731,20991231,null,SNOMED
+40486433,Perennial allergic rhinitis,Condition,Clinical Finding,S,446096008,20110131,20991231,null,SNOMED
+43530652,Chronic intractable migraine without aura,Condition,Clinical Finding,S,124171000119105,20130731,20991231,null,SNOMED
+43530656,Nonproliferative retinopathy due to type 2 diabetes mellitus,Condition,Clinical Finding,S,1551000119108,20130731,20991231,null,SNOMED
+43530685,Proliferative retinopathy due to type 2 diabetes mellitus,Condition,Clinical Finding,S,1501000119109,20130731,20991231,null,SNOMED
+45766063,Single seizure,Condition,Clinical Finding,S,703150000,20140731,20991231,null,SNOMED
+45769905,Microalbuminuria due to type 2 diabetes mellitus,Condition,Clinical Finding,S,90781000119102,20150131,20991231,null,SNOMED
+45770830,Macular edema and retinopathy due to type 2 diabetes mellitus,Condition,Clinical Finding,S,97331000119101,20150131,20991231,null,SNOMED
